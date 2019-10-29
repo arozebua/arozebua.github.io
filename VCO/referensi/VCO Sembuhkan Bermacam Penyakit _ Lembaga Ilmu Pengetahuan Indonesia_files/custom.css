@@ -1,0 +1,42 @@
+/*pikachoose custom*/
+.pikachoose{
+            margin: 0;
+
+        }
+        .pika-stage{
+            height: auto !important;
+            width: 270px;
+            border: none;
+            background: none;
+             padding: 0;
+        }
+        .pika-stage>a>img{
+            height: auto !important;
+            width: 270px;
+        }
+
+        .previous{
+            left: 0px !important;
+
+        }
+        .next{
+            right: 0px !important
+        }
+        .jcarousel-skin-pika{
+            width: 270px
+        }
+        .pika-textnav{
+            display: none;
+        }
+        .pika-counter{
+            display: none;
+        }
+
+        .pika-thumbs li{
+            width: 70px !important;
+            height: 40px;
+        }
+
+        .jcarousel-container-horizontal{
+            height:60px;
+        }
